@@ -1,0 +1,23 @@
+.title {
+  background-color: deepskyblue;
+  height: 200px;
+  width: 1920px;
+  padding: 20px;
+  margin-bottom:20px;
+  }
+
+.intro {
+  background-color: linen;
+  height:100px;
+  margin-top: 20px;
+  margin-bottom:20px;
+  padding: 10px 10px;
+  border: 10px solid green;
+}
+
+.body {
+  background-color: linen;
+  border: .5px solid black;
+  padding:10px 10px;
+
+}

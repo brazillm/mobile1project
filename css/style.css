@@ -1,0 +1,119 @@
+.box1 {
+  color:brown;
+  height:50px;
+  width:560px;
+  background-color:brown;
+  margin-top:-5px;
+
+}
+.box2 {
+  color: red;
+  height:385px;
+  width:560px;
+  background-color:red;
+  margin-top:-17px;
+
+}
+.box3 {
+  color:brown;
+  height:225px;
+  width: 530px;
+  background-color:brown;
+  margin-top:64px;
+  margin-bottom:32px;
+  margin-left:10px;
+  margin-right:10px;
+
+}
+
+.whitebox1 {
+color:white;
+background-color: white;
+height:1px;
+width: 560px;
+border-top-style:solid;
+border-color: black;
+
+}
+
+.box4 {
+  color: brown;
+  height:225px;
+  width:530px;
+  background-color: brown;
+  margin: 64px 10px 32px 10px;
+
+}
+
+.whitebox2 {
+color:white;
+height: 1px;
+width: 560px;
+background-color: white;
+border-top-style: solid;
+border-color: black;
+
+}
+.box5 {
+  color: brown;
+  height:225px;
+  width:530px;
+  background-color: brown;
+  margin: 64px 10px 32px 10px;
+
+}
+.whitebox3 {
+  color:white;
+  height: 1px;
+  width: 560px;
+  background-color: white;
+  border-top-style: solid;
+  border-color: black;
+
+}
+
+.box6 {
+  color: brown;
+  height:225px;
+  width:530px;
+  background-color: brown;
+  margin: 64px 10px 32px 10px;
+
+}
+
+.box7 {
+background-color: black;
+height: 917px;
+width: 540px;}
+
+
+
+li {
+display:inline;
+text-decoration: none;
+border: 2px solid red;
+padding:10px;
+margin-left: 10px;
+border-radius: 3px;
+background-color: red;
+
+
+}
+
+.menu a {
+text-decoration: none;
+color: white;
+
+}
+.menu li:hover {
+background-color: black;
+
+}
+.menu a:hover {
+  color: red;
+}
+
+
+
+
+}
